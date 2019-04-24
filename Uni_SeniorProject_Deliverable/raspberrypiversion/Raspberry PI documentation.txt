@@ -1,0 +1,24 @@
+Raspberry PI documentation 
+Hardware Engineer: Anthony Scott 
+Python Programmer: Yahya Adejoh
+Operating System: Raspbian OS Version: April 2019
+Release date: 04/08/2019 
+kernel version: 4.14
+https://www.raspberrypi.org/downloads/raspbian/pocket
+UNI the game (simplified version of The Adventures Of Uni)
+programming language: Python3.5
+library: Pygame (Game Library)
+Hardware Library : RPIO (GPIO pins I/O)Resources and tutorials
+Screen setup https://learn.adafruit.com/running-opengl-based-games-and-emulators-on-adafruit-pitft-displays/overview 
+Python pygame reference http://programarcadegames.com/index.php 
+Directions
+1. You must have raspberry 3 B or B+
+2. The PI must has Raspbian OS
+3. Raspbian OS comes with a python 3.5 and higher 
+4. Images and program must be in the same folder to run 
+5. Click on the program file pocketUNI.py
+6. If there are any issues make sure your OS is updated
+7. Also make sure the current version of python is correct and has the required libraries.
+This is the simplified version of the game and does not represent the full PC game which can played on window,mac, linux. 
+This version provides evidence that the custom controller and PI screen can be interacted with by the user, even though
+the complete version of the game does not work on the PI.  
